@@ -9,8 +9,8 @@
 Data Cleaning and Feature Engineering
 Perform EDA and Solve questions based on different Variables
 # **Questions solved**
-Q1) Which agent makes the most no. of bookings?
- Q2) Which room type is in most demand and which room type generatesthe  highest adr?
+Q1) Which agent makes the most no. of bookings?<br />
+ Q2) Which room type is in most demand and which room type generatesthe  highest adr?<br />
  Q3) Which meal type isthe  most preffered meal of customers?
  Q4) What isthe  percentage of bookings in each hotel?
  Q5) Which is the most common channel for booking hotels?
