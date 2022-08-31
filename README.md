@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning **Data science**
 
 # **To Do**
-Data Cleaning and Feature Engineering <br />
-Perform EDA and Solve questions based on different Variables <br />
-Observation and Conclusion <br />
+**Data Cleaning and Feature Engineering** <br />
+**Perform EDA and Solve questions based on different Variables <br />
+Observation and Conclusion** <br />
 # **Questions solved**
 Q1) Which agent makes the most no. of bookings?<br />
  Q2) Which room type is in most demand and which room type generatesthe  highest adr?<br />
